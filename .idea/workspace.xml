@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49d69ad4-d93c-4ffa-b835-21e99892a8fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="0dr67ycs" />
+  </component>
+  <component name="ProjectId" id="1jjdUTvHnGscYIzqGgiRav6kR7i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Shell Script.c lang">
+    <configuration name="Unnamed" type="CMakeRunConfiguration" factoryName="Application" singleton="false" nameIsGenerated="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Unnamed" />
+      <item itemvalue="Shell Script.c lang" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49d69ad4-d93c-4ffa-b835-21e99892a8fe" name="Default Changelist" comment="" />
+      <created>1604321456001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604321456001</updated>
+      <workItem from="1604321459331" duration="268000" />
+      <workItem from="1604430049707" duration="342000" />
+      <workItem from="1606518008103" duration="106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="89" width="1092" height="763" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604321688038">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="174" y="89" width="1092" height="763" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.870@0.0.1440.870" timestamp="1604321688038" />
+    <state x="500" y="189" key="FileChooserDialogImpl" timestamp="1606518106838">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="500" y="189" key="FileChooserDialogImpl/0.0.1440.870@0.0.1440.870" timestamp="1606518106838" />
+  </component>
+</project>

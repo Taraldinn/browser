@@ -1,0 +1,9 @@
+05:25:58 **** Build of configuration Build (GNU) for project fardin ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/Users/faald/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_14.0.2.v20200815-0932/jre/bin/server;C:/Users/faald/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_14.0.2.v20200815-0932/jre/bin;C:/Users/faald/AppData/Local/Temp/eoiDF3A.tmp//plugins/org.eclipse.justj.openjdk.hotspot.jre.minimal.stripped.win32.x86_64_14.0.2.v20200815-0932/jre/bin/server;C:/Users/faald/AppData/Local/Temp/eoiDF3A.tmp//plugins/org.eclipse.justj.openjdk.hotspot.jre.minimal.stripped.win32.x86_64_14.0.2.v20200815-0932/jre/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\MinGW\bin;C:\Ruby27-x64\bin;C:\Users\faald\AppData\Local\Microsoft\WindowsApps;;C:\Users\faald\AppData\Local\Programs\Microsoft VS Code Insiders\bin;C:\Users\faald\AppData\Roaming\npm;C:\Users\faald\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\faald\AppData\Roaming\IDM;;C:\Users\faald\AppData\Roaming\IDM;]
+
+05:25:58 Build Failed. 1 errors, 0 warnings. (took 145ms)
+
